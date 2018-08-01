@@ -15,15 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Schmoopiie/passport-twitch.git"
+    "url": "git://github.com/Pyroarsonist/passport-twitch.git"
   },
   "bugs": {
-    "url": "http://github.com/Schmoopiie/passport-twitch/issues"
+    "url": "http://github.com/Pyroarsonist/passport-twitch/issues"
   },
   "author": {
-    "name": "Schmoopiie",
-    "email": "Schmoopiie@gmail.com",
-    "url": "http://www.schmoopiie.com/"
+    "name": "Pyroarsonist",
+    "email": "velikiydan@gmail.com"
   },
   "licenses": [
     {
@@ -46,8 +45,12 @@
     {
       "name": "Schmoopiie",
       "email": "Schmoopiie@gmail.com"
+    },
+    {
+      "name": "Pyroarsonist",
+      "email": "velikiydan@gmail.com"
     }
   ],
   "directories": {},
-  "homepage": "https://github.com/Schmoopiie/passport-twitch"
+  "homepage": "https://github.com/Pyroarsonist/passport-twitch"
 }
