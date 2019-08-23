@@ -1,6 +1,6 @@
 {
   "name": "@pyroarsonist/passport-twitch",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Twitch (OAuth) authentication strategies for Passport.",
   "keywords": [
     "passport",
@@ -42,10 +42,6 @@
     "node": ">=0.10.0"
   },
   "maintainers": [
-    {
-      "name": "Schmoopiie",
-      "email": "Schmoopiie@gmail.com"
-    },
     {
       "name": "Pyroarsonist",
       "email": "velikiydan@gmail.com"
